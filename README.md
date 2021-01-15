@@ -5,4 +5,4 @@ Only download fils from the releases because I know how to update releases and i
 will be the one updated
 
 
-#I MAY FORGET TO UPDATE IF I DO I RECCOMEND TRYING DIFFRENT ONES OR YOU CAN WAIT
+# I MAY FORGET TO UPDATE IF I DO I RECCOMEND TRYING DIFFRENT ONES OR YOU CAN WAIT
