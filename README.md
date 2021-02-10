@@ -1,5 +1,4 @@
 # Atmosphere-sigpatches
 Signature patches for atmosphere
 
-I will update these every time it goes up 0.1.0 for example
-0.17.0, 0.18.0, 0.19.0, etc. Because I don't really use my computer much but really I will update them as much as I can
+## When I find out theres a atmopshere update I will make new patches
